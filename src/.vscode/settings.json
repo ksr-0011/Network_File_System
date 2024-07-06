@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "network_utils.h": "c",
+    "stdbool.h": "c",
+    "inet.h": "c",
+    "stdint.h": "c",
+    "loggers.h": "c",
+    "responses.h": "c",
+    "read_request_handler.h": "c",
+    "ss_info.h": "c",
+    "delete.h": "c",
+    "create.h": "c",
+    "client_handler.h": "c",
+    "string.h": "c"
+  },
+  "makefile.makefilePath": "Makefile"
+}
